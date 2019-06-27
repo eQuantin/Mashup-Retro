@@ -64,6 +64,12 @@ public class PlayerController : MonoBehaviour
                                                             //
         return _jump;                                       //
     }                                                       //
+                                                            //
+    public void OnCollisionEnter2D(Collision2D other)       //
+    {                                                       //
+        if (other.transform.tag == "PlateformMoving")       //
+            transform.parent = other.transform;             //
+    }                                                       //
     //////////////////////////////////////////////////////////
 }
 

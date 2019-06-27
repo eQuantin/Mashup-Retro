@@ -15,7 +15,7 @@ TagManager:
   - 
   - Player
   - Ground
-  - 
+  - Portal
   - 
   - 
   - 
@@ -46,6 +46,9 @@ TagManager:
     locked: 0
   - name: Forground
     uniqueID: 3013744495
+    locked: 0
+  - name: Portal
+    uniqueID: 122521919
     locked: 0
   - name: Player
     uniqueID: 3100789801
