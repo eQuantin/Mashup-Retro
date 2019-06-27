@@ -16,8 +16,9 @@ public class PlayerMotor : MonoBehaviour
     //////////////////////////////////////////////
 
     // Constructor : /////////////////////////////////////////
-    PlayerMotor(float jumpSpeed, float maxSpeed)            //
+    public PlayerMotor(float jumpSpeed, float maxSpeed)     //
     {                                                       //
+        _rb.useAutoMass = true;                             //
         _jumpSpeed = jumpSpeed;                             //
         _maxSpeed = maxSpeed;                               //
         _jumpVector = new Vector2(0f, _horizontalVector.y); //
@@ -44,8 +45,9 @@ public class PlayerMotor : MonoBehaviour
     private void PerformRunAndJump()                                                                    //
     {                                                                                                   //
         _jumpVector.Set(0f, _horizontalVector.y);                                                       //
-        _rb.velocity.Set(_horizontalVector.x * _maxSpeed * Time.deltaTime, _rb.velocity.y);             //
-        _rb.AddForce(_jumpVector * Time.deltaTime * _jumpSpeed, ForceMode2D.Impulse);                   //
+        _rb.velocity = new Vector2(_horizontalVector.x * _maxSpeed * Time.deltaTime, _rb.velocity.y);   //
+        if (_rb.position.y < 0)
+            _rb.AddForce(_jumpVector * Time.deltaTime * _jumpSpeed, ForceMode2D.Impulse);               //
     }                                                                                                   //
     //////////////////////////////////////////////////////////////////////////////////////////////////////
 }
