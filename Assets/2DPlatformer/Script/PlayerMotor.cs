@@ -9,25 +9,25 @@ public class PlayerMotor : MonoBehaviour
     // Attributs :  //////////////////////////////
     private Vector2     _horizontalVector;      //
     private Vector2     _jumpVector;            //
-    private Rigidbody2D _rb;                    //
-                                                //
-    public float _jumpSpeed;                    //
-    public float _maxSpeed;                     //
-    //////////////////////////////////////////////
+    private Rigidbody2D _rb;
 
-    // Constructor : /////////////////////////////////////////
-    public PlayerMotor(float jumpSpeed, float maxSpeed)     //
-    {                                                       //
-        _rb.useAutoMass = true;                             //
-        _jumpSpeed = jumpSpeed;                             //
-        _maxSpeed = maxSpeed;                               //
-        _jumpVector = new Vector2(0f, _horizontalVector.y); //
-    }                                                       //
-    //////////////////////////////////////////////////////////
+    [SerializeField]
+    private GameObject  _groundCheck;
+    
+    [SerializeField]
+    private LayerMask   _layer;                    //
+    
+    [SerializeField]                                            //
+    private float _jumpSpeed, _maxSpeed, _radiusCircle;
+    
+    private bool doubleJump;                   //
+    //////////////////////////////////////////////
 
     // Public Methods : //////////////////////////////////////////////////////////////////////////////////
     public void Start()                                                                                 //
-    {                                                                                                   //
+    {    
+        _jumpVector = new Vector2(0f, _horizontalVector.y);
+        doubleJump = true;                                                                                               //
         _horizontalVector = Vector2.zero;                                                               //
         _rb = GetComponent<Rigidbody2D>();                                                              //
     }                                                                                                   //
@@ -43,11 +43,30 @@ public class PlayerMotor : MonoBehaviour
     }                                                                                                   //
                                                                                                         //
     private void PerformRunAndJump()                                                                    //
-    {                                                                                                   //
-        _jumpVector.Set(0f, _horizontalVector.y);                                                       //
+    {     
+        bool grounded = Physics2D.OverlapCircle(_groundCheck.transform.position, _radiusCircle, _layer);
+        
+
+        if (doubleJump && !grounded && _horizontalVector.y > 0) {
+            Jump();
+            doubleJump = false;
+        }
+
+        if (grounded && _horizontalVector.y > 0)
+        {
+            Jump();
+            doubleJump = true;
+        }
+                                                                                                        //                                                      //
         _rb.velocity = new Vector2(_horizontalVector.x * _maxSpeed * Time.deltaTime, _rb.velocity.y);   //
-        if (_rb.position.y < 0)
-            _rb.AddForce(_jumpVector * Time.deltaTime * _jumpSpeed, ForceMode2D.Impulse);               //
+                                                                                                        //
+    }
+    
+    private void Jump()
+    {
+        _jumpVector.Set(0f, _horizontalVector.y);
+        _rb.AddForce(_jumpVector * Time.deltaTime * _jumpSpeed, ForceMode2D.Impulse);
+        Debug.Log("Jump !");
     }                                                                                                   //
     //////////////////////////////////////////////////////////////////////////////////////////////////////
 }
