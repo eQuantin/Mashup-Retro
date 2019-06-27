@@ -2,10 +2,19 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - AlienMovement
+    - AnimationController
     - PlayerController
     - PlayerMotor
     - QuitButton
     - SceneSwitch
+    UnityEditor.Graphs.dll:
+    - UnityEditor.Graphs.AnimationBlendTree.Graph
+    - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
+    - UnityEditor.Graphs.AnimationStateMachine.Graph
+    - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.StateNode
+    - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.TestListCacheData
     UnityEngine.UI.dll:
@@ -36,14 +45,22 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 61
       Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
     - Class: 81
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
       Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 10526}
+      Script: {instanceID: 9668}
     - Class: 114
-      Script: {instanceID: 10586}
+      Script: {instanceID: 10530}
+    - Class: 114
+      Script: {instanceID: 10592}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -88,15 +105,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9386}
     - Class: 114
-      Script: {instanceID: 10526}
+      Script: {instanceID: 9426}
     - Class: 114
-      Script: {instanceID: 10586}
+      Script: {instanceID: 9700}
     - Class: 114
-      Script: {instanceID: 14442}
+      Script: {instanceID: 10530}
     - Class: 114
-      Script: {instanceID: 15546}
+      Script: {instanceID: 10538}
     - Class: 114
-      Script: {instanceID: 16242}
+      Script: {instanceID: 10592}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -356,6 +373,12 @@ ScriptsOnlyBuild:
     className: TMP_InputField
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SceneSwitch
+  - hash:
+      serializedVersion: 2
       Hash: cf9f5cf2c3145a37ac07f00e50e460f9
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
@@ -572,6 +595,18 @@ ScriptsOnlyBuild:
     className: AnimationPlayableAsset
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: AnimationController
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: QuitButton
+  - hash:
+      serializedVersion: 2
       Hash: 303ad70ce203ad874efe2965d0fbcff9
     assemblyName: Unity.Analytics.Tracker.dll
     namespaceName: UnityEngine.Analytics
@@ -740,10 +775,16 @@ ScriptsOnlyBuild:
     className: TMP_ColorGradient
   - hash:
       serializedVersion: 2
-      Hash: 3af5f9d674cd0c020281e7c1e7b02725
+      Hash: a208c15693318f0cb7dfead3556bfb8c
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: PlayerMotor
+  - hash:
+      serializedVersion: 2
+      Hash: fee7e5b6459b7cbf17d0d1334840120f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: AlienMovement
   - hash:
       serializedVersion: 2
       Hash: 8649814970b42d345b89944b862453cc
@@ -764,7 +805,7 @@ ScriptsOnlyBuild:
     className: Camera2DFollow
   - hash:
       serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+      Hash: e0fba4af265499b5ba18f7e78116a35c
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: PlayerController
@@ -774,26 +815,8 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: SceneSwitch
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: QuitButton
-  - hash:
-      serializedVersion: 2
-      Hash: fee7e5b6459b7cbf17d0d1334840120f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: AlienMovement
   platform: 24
   scenePathNames:
   - Assets/Scenes/menuScene.unity
   - Assets/Scenes/SampleScene.unity
-  playerPath: /home/dquentin/trash/etpd.x86_64
+  playerPath: /home/danaen/Unity/Projects/Mashup-Retro/exe.x86_64
