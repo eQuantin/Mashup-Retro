@@ -58,11 +58,18 @@
      <Compile Include="Assets\2DPlatformer\Script\AnimationController.cs" />
      <Compile Include="Assets\2DPlatformer\Script\Camera2DFollow.cs" />
      <Compile Include="Assets\2DPlatformer\Script\Menu scripts\AlienMovement.cs" />
+     <Compile Include="Assets\2DPlatformer\Script\Menu scripts\DoSceneSwitch.cs" />
      <Compile Include="Assets\2DPlatformer\Script\Menu scripts\QuitButton.cs" />
      <Compile Include="Assets\2DPlatformer\Script\Menu scripts\SceneSwitch.cs" />
+     <Compile Include="Assets\2DPlatformer\Script\MobController.cs" />
+     <Compile Include="Assets\2DPlatformer\Script\PlateformMovement.cs" />
+     <Compile Include="Assets\2DPlatformer\Script\PlateformReverseMovemen.cs" />
      <Compile Include="Assets\2DPlatformer\Script\PlayerControl.cs" />
      <Compile Include="Assets\2DPlatformer\Script\PlayerController.cs" />
      <Compile Include="Assets\2DPlatformer\Script\PlayerMotor.cs" />
+     <Compile Include="Assets\2DPlatformer\Script\PlayerTeleport.cs" />
+     <Compile Include="Assets\2DPlatformer\Script\SceneSwitchStage.cs" />
+     <Compile Include="Assets\PlateformReverseMovement.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>/home/danaen/Unity/Projects/Mashup-Retro/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>

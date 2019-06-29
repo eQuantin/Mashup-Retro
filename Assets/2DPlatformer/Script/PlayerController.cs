@@ -14,19 +14,12 @@ public class PlayerController : MonoBehaviour
     private PlayerMotor motor;  //
     //////////////////////////////
 
-    // constructor : /////////////////////////
-    PlayerController(float x, float y)      //
-    {                                       //
-        _y = y;                             //
-        _x = x;                             //
-        _velocity = new Vector2(x, y);      //
-        motor = new PlayerMotor();          //
-    }                                       //
-    //////////////////////////////////////////
 
     // Public Methods : //////////////////////////////////////
     public void Start()                                     //
-    {                                                       //
+    {                                     //
+        _velocity = new Vector2(_x, _y);      //
+        motor = new PlayerMotor();                                              //
         motor = GetComponent<PlayerMotor>();                //
     }                                                       //
                                                             //
@@ -69,6 +62,8 @@ public class PlayerController : MonoBehaviour
     {                                                       //
         if (other.transform.tag == "PlateformMoving")       //
             transform.parent = other.transform;             //
+        else                                                //
+            transform.parent = null;                        //
     }                                                       //
     //////////////////////////////////////////////////////////
 }

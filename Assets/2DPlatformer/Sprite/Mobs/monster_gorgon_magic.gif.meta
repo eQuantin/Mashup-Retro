@@ -1,0 +1,1454 @@
+fileFormatVersion: 2
+guid: e4a21029be38f1512bd42f1cee5d1c5e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2955484556883695699
+    second: monster_gorgon_magic_0
+  - first:
+      213: -8176253643105850261
+    second: monster_gorgon_magic_1
+  - first:
+      213: -8442969215037133154
+    second: monster_gorgon_magic_2
+  - first:
+      213: -6300107851894581782
+    second: monster_gorgon_magic_3
+  - first:
+      213: -4761238754596070123
+    second: monster_gorgon_magic_4
+  - first:
+      213: -330283936368899301
+    second: monster_gorgon_magic_5
+  - first:
+      213: 5515522934743550709
+    second: monster_gorgon_magic_6
+  - first:
+      213: 1025233864885737357
+    second: monster_gorgon_magic_7
+  - first:
+      213: 8399956535045092771
+    second: monster_gorgon_magic_8
+  - first:
+      213: -7720070312864816486
+    second: monster_gorgon_magic_9
+  - first:
+      213: 2409719304076220740
+    second: monster_gorgon_magic_10
+  - first:
+      213: 5689857428136174529
+    second: monster_gorgon_magic_11
+  - first:
+      213: -255705268869466245
+    second: monster_gorgon_magic_12
+  - first:
+      213: -4730482933105469935
+    second: monster_gorgon_magic_13
+  - first:
+      213: 3404269126061614543
+    second: monster_gorgon_magic_14
+  - first:
+      213: -2300610496730186941
+    second: monster_gorgon_magic_15
+  - first:
+      213: 3037242775509641468
+    second: monster_gorgon_magic_16
+  - first:
+      213: 1037111358211507682
+    second: monster_gorgon_magic_17
+  - first:
+      213: 1419303055287592563
+    second: monster_gorgon_magic_18
+  - first:
+      213: 8427450891829362066
+    second: monster_gorgon_magic_19
+  - first:
+      213: -6257077955675588422
+    second: monster_gorgon_magic_20
+  - first:
+      213: 9976750108272929
+    second: monster_gorgon_magic_21
+  - first:
+      213: -6481316383578963913
+    second: monster_gorgon_magic_22
+  - first:
+      213: -6804053421700578315
+    second: monster_gorgon_magic_23
+  - first:
+      213: -8733435545011279422
+    second: monster_gorgon_magic_24
+  - first:
+      213: 3401006320831443830
+    second: monster_gorgon_magic_25
+  - first:
+      213: 8085405822511320870
+    second: monster_gorgon_magic_26
+  - first:
+      213: -1313788782811581029
+    second: monster_gorgon_magic_27
+  - first:
+      213: 5053774533427886571
+    second: monster_gorgon_magic_28
+  - first:
+      213: 8066206725071485192
+    second: monster_gorgon_magic_29
+  - first:
+      213: -4407666378768728519
+    second: monster_gorgon_magic_30
+  - first:
+      213: 7611437831821214449
+    second: monster_gorgon_magic_31
+  - first:
+      213: -3207406903453198590
+    second: monster_gorgon_magic_32
+  - first:
+      213: -1219414267871955685
+    second: monster_gorgon_magic_33
+  - first:
+      213: 3114676705514196658
+    second: monster_gorgon_magic_34
+  - first:
+      213: 2877274214024890993
+    second: monster_gorgon_magic_35
+  - first:
+      213: 5510847342413737141
+    second: monster_gorgon_magic_36
+  - first:
+      213: -2023353056921690729
+    second: monster_gorgon_magic_37
+  - first:
+      213: -633459319144264973
+    second: monster_gorgon_magic_38
+  - first:
+      213: 2238013104187116176
+    second: monster_gorgon_magic_39
+  - first:
+      213: 2018454248289363451
+    second: monster_gorgon_magic_40
+  - first:
+      213: 5612002064356233110
+    second: monster_gorgon_magic_41
+  - first:
+      213: -5372567288286726532
+    second: monster_gorgon_magic_42
+  - first:
+      213: 8084645325731372603
+    second: monster_gorgon_magic_43
+  - first:
+      213: 8078794074660486969
+    second: monster_gorgon_magic_44
+  - first:
+      213: -4420403371075057359
+    second: monster_gorgon_magic_45
+  - first:
+      213: 8257829804375753340
+    second: monster_gorgon_magic_46
+  - first:
+      213: 3180683638577105703
+    second: monster_gorgon_magic_47
+  - first:
+      213: 8072418056955227108
+    second: monster_gorgon_magic_48
+  - first:
+      213: -477621145157221800
+    second: monster_gorgon_magic_49
+  - first:
+      213: -3677765619110406792
+    second: monster_gorgon_magic_50
+  - first:
+      213: -2588357632592974378
+    second: monster_gorgon_magic_51
+  - first:
+      213: -8557797135732001143
+    second: monster_gorgon_magic_52
+  - first:
+      213: -2167321177368000910
+    second: monster_gorgon_magic_53
+  - first:
+      213: 507245238794620612
+    second: monster_gorgon_magic_54
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 417, z: 436, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monster_gorgon_magic_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 422
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37469a1c2707495938d08226b58f3197
+      internalID: -2955484556883695699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 422
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f18313f6086235c6b32657e7eec1610
+      internalID: -8176253643105850261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 422
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03e21e6094c63833bd1d2e67a0f4316
+      internalID: -8442969215037133154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 422
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0577c892c03b561fb17b90138a0ce6d
+      internalID: -6300107851894581782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_4
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 422
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a70257319823ab3a30de17f87a3e7c
+      internalID: -4761238754596070123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_5
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 422
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff9761bad2e33f948e1ed68f8e0bdc5
+      internalID: -330283936368899301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_6
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 422
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2aec1de0fabe1d985a3b7a60868932
+      internalID: 5515522934743550709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_7
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 422
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fee4e78dd2bbfb0685ca5133334261d
+      internalID: 1025233864885737357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_8
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 422
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184a1517c2d9ae7a2ac0d704584a5c38
+      internalID: 8399956535045092771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_9
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 361
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd6c4f78ec9cbc818f8a042986e54a8
+      internalID: -7720070312864816486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 361
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf83b76970da84ef8874a4e86a98e9b2
+      internalID: 2409719304076220740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_11
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 360
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8ed646ee156ffdf9d3a530b27565cd
+      internalID: 5689857428136174529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 361
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0360777d114436ab786210863ebc0860
+      internalID: -255705268869466245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_13
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 388
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b09a96d698a49cd99bc18aea0a3c8a
+      internalID: -4730482933105469935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_14
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 385
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01367198eb29b8413a116195fbc056ce
+      internalID: 3404269126061614543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_15
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 360
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdf85ed7da9e069cb81e7f7853eabbb
+      internalID: -2300610496730186941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_16
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 360
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fb512a5a15f2044a8191fcc3285d3a
+      internalID: 3037242775509641468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_17
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 388
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74573ca12a9fa698ac64719818dfbe9
+      internalID: 1037111358211507682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 359
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833dd388c8e29a26d991c805c8473903
+      internalID: 1419303055287592563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_19
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 360
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5c1565dbc57ad75a2e7dd4748cb46e
+      internalID: 8427450891829362066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_20
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 300
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655cfee32843ae970953cdb8cdddd633
+      internalID: -6257077955675588422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_21
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 300
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b68e3794f0e8b5d95c0913e4d7e4c6
+      internalID: 9976750108272929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_22
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 301
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf3acc593785177ba81e10cb29a5afd
+      internalID: -6481316383578963913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_23
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 300
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3acf92db13b8690d9f258937f53b9bc
+      internalID: -6804053421700578315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_24
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 300
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088d977ef1f55cbadb0782bb2aede09a
+      internalID: -8733435545011279422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_25
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 330
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdeaa908074262101b11379f33b37562
+      internalID: 3401006320831443830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 300
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455aee37dfa0bd34ea3624226ba435db
+      internalID: 8085405822511320870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_27
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 300
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c919bb025e6802d8baee11c355fc63
+      internalID: -1313788782811581029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_28
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 330
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54db8108ae933610abe3e2753639ce3
+      internalID: 5053774533427886571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_29
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 300
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c2fb165c833fbe0b272268fd48d21f
+      internalID: 8066206725071485192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_30
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 240
+        width: 77
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d4e696a85692b1da32b0e8fc54d931
+      internalID: -4407666378768728519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_31
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 239
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f93880cbea6d85088f71f80576d567
+      internalID: 7611437831821214449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_32
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 238
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8512326b34fc7f8ca8c99fb82f53622
+      internalID: -3207406903453198590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_33
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 238
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688af00d0934ab8b3862119c65ab3b1f
+      internalID: -1219414267871955685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_34
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 238
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77755c57a9199639820af67a8767fa1
+      internalID: 3114676705514196658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_35
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 240
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d0eede61564431db7c805b12d22641
+      internalID: 2877274214024890993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_36
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 266
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edc87989056429bfbc66ea476b48ef4
+      internalID: 5510847342413737141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_37
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 242
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90b0b008a1962a978198d3e82d466ee
+      internalID: -2023353056921690729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_38
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 174
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1407db6d1372d5c98097a2e83e847e3
+      internalID: -633459319144264973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_39
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 176
+        width: 79
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a805de0364c4bb88ca7b5680be82ff
+      internalID: 2238013104187116176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_40
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 199
+        width: 65
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e914695a735ef4db30ce7932ac42f2
+      internalID: 2018454248289363451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_41
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 198
+        width: 61
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c3b05b10d6533d1bb65342688c94d2
+      internalID: 5612002064356233110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_42
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 197
+        width: 62
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dace41c49aeb69bba47e86340780e55
+      internalID: -5372567288286726532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_43
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 197
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3679f42e4fef69401a9f8f14d7e81701
+      internalID: 8084645325731372603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_44
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 130
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97fb1e86f9d9cd3f98187bbb2b66e72
+      internalID: 8078794074660486969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_45
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 133
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747c0167a16a565098cf4ae75cf7f0a6
+      internalID: -4420403371075057359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_46
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 134
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37a5da9a0798a2b2a175bbe60ac55af
+      internalID: 8257829804375753340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_47
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 136
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e7e8dcb40b86b35ace21b7b3c134f2
+      internalID: 3180683638577105703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_48
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 68
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220a28191b0b61fe2be1d830cb878143
+      internalID: 8072418056955227108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_49
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 68
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad4f10b720f6dae18f11c18dda4be67
+      internalID: -477621145157221800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_50
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 72
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88313dc3dfb89d1609faf68e26daef4c
+      internalID: -3677765619110406792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_51
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 74
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629a5106ab04e3dc2a16cb85ae248196
+      internalID: -2588357632592974378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_52
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 76
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a8984adc53d8b9fa2e380270bf72b8
+      internalID: -8557797135732001143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_53
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 12
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a05136dd874c190946f6ea99d442a1
+      internalID: -2167321177368000910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_gorgon_magic_54
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 14
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0887ba1d8f0fb136fa35586b32885fe8
+      internalID: 507245238794620612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 240c90e73b410e790a04824ce639daf2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
